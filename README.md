@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá! Me chamo Luiz Lennon, tenho 33 anos e sou natural do Rio de Janeiro. Como bom carioca, sou apaixonado por praia e tudo que envolve esse estilo de vida.
+Olá! Me chamo Luiz Lennon, sou natural do Rio de Janeiro. Como bom carioca, sou apaixonado por praia e tudo que envolve esse estilo de vida.
 
 Atualmente estou em transição de carreira, saindo do trabalho como autônomo para atuar como desenvolvedor. Estou no último período de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida, focado em construir uma base sólida e evoluir constantemente na área de tecnologia.
 
