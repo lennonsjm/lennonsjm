@@ -6,21 +6,7 @@ Olá! Me chamo Luiz Lennon, sou natural do Rio de Janeiro. Como bom carioca, sou
 
 Atualmente estou em transição de carreira, saindo do trabalho como autônomo para atuar como desenvolvedor. Estou no último período de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida, focado em construir uma base sólida e evoluir constantemente na área de tecnologia.
 
-<p align="left">
-    <a href="https://github.com/lennonsjm?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lennonsjm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lennonsjm?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lennonsjm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
 <a href="https://www.linkedin.com/in/dev-lennon">
     <img 
         alt="LinkedIn" 
